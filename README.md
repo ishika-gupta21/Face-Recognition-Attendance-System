@@ -15,6 +15,14 @@
 4. [Click for Attendance](https://github.com/ishika-gupta21/Face-Recognition-Attendance-System/blob/main/Face_Recognition.ipynb)  
 5. [Auto Mail the Attendance](https://github.com/ishika-gupta21/Face-Recognition-Attendance-System/blob/main/Automail_Attendance.ipynb) 
 
+## Technologies and Libraries used
+ * Python
+ * Jupyter Notebook
+ * OpenCV
+ * Numpy
+ * Pandas
+ * Tkinter
+ 
 ## Flow Chart of the complete Project
 
 ![FlowChart](https://github.com/ishika-gupta21/Face-Recognition-Attendance-System/blob/main/GUI%20Interface/FlowChart.png)
