@@ -16,12 +16,24 @@
 5. [Auto Mail the Attendance](https://github.com/ishika-gupta21/Face-Recognition-Attendance-System/blob/main/Automail_Attendance.ipynb) 
 
 ## Technologies and Libraries used
+ 
  * Python
  * Jupyter Notebook
  * OpenCV
  * Numpy
  * Pandas
  * Tkinter
+ 
+## Setting the environment
+ 
+1. Clone the repository or download zip
+2. Make sure you have `python` version `>=3.6` and `pip` installed on your device before doing anything.
+3. It is suggested to use an IDE such as Jupyter Notebook or Google Collab to run the code.
+4. Download and install libraries mentioned at the start of the python file named 'FRAS_project.ipynb' using pip command.
+5. Make changes in the directory path that is mentioned in the code, for the folders you wish to save the files and also upload the images.
+6. Turn on allow less secure apps.
+7. Run the 'FRAS_project.ipynb' code in all the cells and the tkinter desktop application opens.
+8. Make sure you have good internet connection and good lightning in the room where you are using the `Face Recognition based attendance system`.
  
 ## Flow Chart of the complete Project
 
